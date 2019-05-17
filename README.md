@@ -1,2 +1,2 @@
-# snoox-bodo
-Bodo app Server
+# Snoox Bodo
+Bodo+ server
